@@ -1,0 +1,2 @@
+# jeecg-rightcloud
+rightcloud-app
